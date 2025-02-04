@@ -1,0 +1,1007 @@
+********************************************
+v1.2     ______    _______    ________
+	/ __  /   / ___  /   / ______/
+       / /_/ /   / /  / /   / /_____  
+      / ____/   / /  / /   /_____  /  
+     / /       / /  / /         / /   
+    / /       / /__/ /   ______/ /    
+   /_/       /______/   /_______/     
+
+Welcome to Point of Sale Manangement System 
+********************************************
+
+[1]Login, [2]Register, [3]Exit
+Enter option: A
+
+Invalid input, please try again
+
+[1]Login, [2]Register, [3]Exit
+Enter option: 2
+
+[1]Local account, [2]Admin account, [3]Back
+Enter option: 1
+Enter username: Micheal
+Enter password: Micheal789
+Account was successfully created
+
+[1]Local account, [2]Admin account, [3]Back
+Enter option: 2
+Enter username: Elliot
+Enter password: Elliot123
+Enter the key to create the admin account: 12345
+Account was successfully created
+
+[1]Local account, [2]Admin account, [3]Back
+Enter option: 1
+Enter username: 1
+Enter password: 1
+Account was successfully created
+
+[1]Local account, [2]Admin account, [3]Back
+Enter option: 2
+Enter username: Wiener
+Enter password: Winner159
+Enter the key to create the admin account: 3
+Invalid Registration!
+
+[1]Local account, [2]Admin account, [3]Back
+Enter option: 3
+
+[1]Login, [2]Register, [3]Exit
+Enter option: 1
+Enter username: Elliot
+Enter password: Elliot123
+
+--------------------------------------------
+[1]Account Management    [2]Sales Management  
+[3]Inventory Management  [4]Report  [5]Log out
+Enter option: 1
+
+---------------Account Management---------------
+~For managing account data's
+
+[1]Add new account	[2]View accounts
+[3]Update account	[4]Remove account	[5]Back
+Enter option: 2
+
+***THE LIST***
+
+ACCOUNT ID: 1000
+USERNAME: Micheal
+ADMIN: false
+
+ACCOUNT ID: 1001
+USERNAME: Elliot
+ADMIN: true
+
+ACCOUNT ID: 1002
+USERNAME: 1
+ADMIN: false
+
+
+---------------Account Management---------------
+~For managing account data's
+
+[1]Add new account	[2]View accounts
+[3]Update account	[4]Remove account	[5]Back
+Enter option: 3
+
+[1]Change access key   [2]Edit account  [3]Back
+Enter option: 1
+Enter current key: 123
+Incorrect entered key
+
+[1]Change access key   [2]Edit account  [3]Back
+Enter option: 1
+Enter current key: 12345
+Enter new key: 123
+The key was successfully changed
+
+[1]Change access key   [2]Edit account  [3]Back
+Enter option: 2
+Account ID: A
+Invalid input, please try again.
+The entered account ID was not on the list
+
+[1]Change access key   [2]Edit account  [3]Back
+Enter option: 2
+Account ID: 123
+The entered account ID was not on the list
+
+[1]Change access key   [2]Edit account  [3]Back
+Enter option: 2
+Account ID: 1002
+[1] Edit username
+[2] Edit password
+[3] Back
+Enter option: A
+Invalid input, please try again.
+[1] Edit username
+[2] Edit password
+[3] Back
+Enter option: 1
+New username: JAMES
+The username was successfully changed
+[1] Edit username
+[2] Edit password
+[3] Back
+Enter option: 2
+Enter current password: A
+Incorrect current password!
+[1] Edit username
+[2] Edit password
+[3] Back
+Enter option: 2
+Enter current password: 1
+Enter new password: 456
+The password was successfully changed
+[1] Edit username
+[2] Edit password
+[3] Back
+Enter option: 3
+
+---------------Account Management---------------
+~For managing account data's
+
+[1]Add new account	[2]View accounts
+[3]Update account	[4]Remove account	[5]Back
+Enter option: 2
+
+***THE LIST***
+
+ACCOUNT ID: 1000
+USERNAME: Micheal
+ADMIN: false
+
+ACCOUNT ID: 1001
+USERNAME: Elliot
+ADMIN: true
+
+ACCOUNT ID: 1002
+USERNAME: JAMES
+ADMIN: false
+
+
+---------------Account Management---------------
+~For managing account data's
+
+[1]Add new account	[2]View accounts
+[3]Update account	[4]Remove account	[5]Back
+Enter option: 4
+Account ID: 10
+The entered account ID was not on the list
+
+---------------Account Management---------------
+~For managing account data's
+
+[1]Add new account	[2]View accounts
+[3]Update account	[4]Remove account	[5]Back
+Enter option: 4
+Account ID: 1000
+The account was successfully removed
+
+---------------Account Management---------------
+~For managing account data's
+
+[1]Add new account	[2]View accounts
+[3]Update account	[4]Remove account	[5]Back
+Enter option: 2
+
+***THE LIST***
+
+ACCOUNT ID: 1001
+USERNAME: Elliot
+ADMIN: true
+
+ACCOUNT ID: 1002
+USERNAME: JAMES
+ADMIN: false
+
+
+---------------Account Management---------------
+~For managing account data's
+
+[1]Add new account	[2]View accounts
+[3]Update account	[4]Remove account	[5]Back
+Enter option: 5
+
+--------------------------------------------
+[1]Account Management    [2]Sales Management  
+[3]Inventory Management  [4]Report  [5]Log out
+Enter option: 2
+
+---------------Sales Management---------------
+~For managing transaction data's
+
+[1]Add new transaction	[2]View transactions
+[3]Update transaction	[4]Remove transaction	[5]Back
+Enter option: 1
+There is no product/s to be sold
+
+---------------Sales Management---------------
+~For managing transaction data's
+
+[1]Add new transaction	[2]View transactions
+[3]Update transaction	[4]Remove transaction	[5]Back
+Enter option: 5
+
+--------------------------------------------
+[1]Account Management    [2]Sales Management  
+[3]Inventory Management  [4]Report  [5]Log out
+Enter option: 3
+
+---------------Inventory Management---------------
+~For managing product data's
+
+[1]Add new product	[2]View products
+[3]Update product	[4]Remove product	[5]Back
+Enter option: 1
+Enter product name: CHOCOLATE
+Enter product price: 10
+Enter product stocks: 50
+Product was successfully added
+
+---------------Inventory Management---------------
+~For managing product data's
+
+[1]Add new product	[2]View products
+[3]Update product	[4]Remove product	[5]Back
+Enter option: 1
+Enter product name: COKE
+Enter product price: 20
+Enter product stocks: 50
+Product was successfully added
+
+---------------Inventory Management---------------
+~For managing product data's
+
+[1]Add new product	[2]View products
+[3]Update product	[4]Remove product	[5]Back
+Enter option: 1
+Enter product name: BATTERY 1.5V
+Enter product price: 5
+Enter product stocks: A
+Product was successfully added
+
+---------------Inventory Management---------------
+~For managing product data's
+
+[1]Add new product	[2]View products
+[3]Update product	[4]Remove product	[5]Back
+Enter option: 2
+
+***THE LIST***
+
+PRODUCT ID: 100
+PRODUCT NAME: CHOCOLATE
+PRICE: 10.0
+STOCKS: 50
+
+PRODUCT ID: 101
+PRODUCT NAME: COKE
+PRICE: 20.0
+STOCKS: 50
+
+PRODUCT ID: 102
+PRODUCT NAME: BATTERY 1.5V
+PRICE: 5.0
+STOCKS: 0
+
+
+---------------Inventory Management---------------
+~For managing product data's
+
+[1]Add new product	[2]View products
+[3]Update product	[4]Remove product	[5]Back
+Enter option: 3
+Product ID: 2
+The entered product ID was not on the list
+
+---------------Inventory Management---------------
+~For managing product data's
+
+[1]Add new product	[2]View products
+[3]Update product	[4]Remove product	[5]Back
+Enter option: 3
+Product ID: 102
+
+[1] Edit name   [2] Edit price
+[3] Edit stock  [4] Back
+Enter option: 1
+New Name: BATTERY 9V
+Value has been changed
+
+[1] Edit name   [2] Edit price
+[3] Edit stock  [4] Back
+Enter option: 2
+New Price: 25
+Value has been changed
+
+[1] Edit name   [2] Edit price
+[3] Edit stock  [4] Back
+Enter option: 3
+New Stock: 50
+Value has been changed
+
+[1] Edit name   [2] Edit price
+[3] Edit stock  [4] Back
+Enter option: 4
+
+---------------Inventory Management---------------
+~For managing product data's
+
+[1]Add new product	[2]View products
+[3]Update product	[4]Remove product	[5]Back
+Enter option: 2
+
+***THE LIST***
+
+PRODUCT ID: 100
+PRODUCT NAME: CHOCOLATE
+PRICE: 10.0
+STOCKS: 50
+
+PRODUCT ID: 101
+PRODUCT NAME: COKE
+PRICE: 20.0
+STOCKS: 50
+
+PRODUCT ID: 102
+PRODUCT NAME: BATTERY 9V
+PRICE: 25.0
+STOCKS: 50
+
+
+---------------Inventory Management---------------
+~For managing product data's
+
+[1]Add new product	[2]View products
+[3]Update product	[4]Remove product	[5]Back
+Enter option: 1
+Enter product name: BEARBRAND 250ml
+Enter product price: NOPE
+Enter product stocks: NOPE
+Product was successfully added
+
+---------------Inventory Management---------------
+~For managing product data's
+
+[1]Add new product	[2]View products
+[3]Update product	[4]Remove product	[5]Back
+Enter option: 2
+
+***THE LIST***
+
+PRODUCT ID: 100
+PRODUCT NAME: CHOCOLATE
+PRICE: 10.0
+STOCKS: 50
+
+PRODUCT ID: 101
+PRODUCT NAME: COKE
+PRICE: 20.0
+STOCKS: 50
+
+PRODUCT ID: 102
+PRODUCT NAME: BATTERY 9V
+PRICE: 25.0
+STOCKS: 50
+
+PRODUCT ID: 103
+PRODUCT NAME: BEARBRAND 250ml
+PRICE: 0.0
+STOCKS: 0
+
+
+---------------Inventory Management---------------
+~For managing product data's
+
+[1]Add new product	[2]View products
+[3]Update product	[4]Remove product	[5]Back
+Enter option: 4
+Product ID: A
+Invalid input, please try again.
+The entered product ID was not on the list
+
+---------------Inventory Management---------------
+~For managing product data's
+
+[1]Add new product	[2]View products
+[3]Update product	[4]Remove product	[5]Back
+Enter option: 4
+Product ID: 103
+The product was successfully removed
+
+---------------Inventory Management---------------
+~For managing product data's
+
+[1]Add new product	[2]View products
+[3]Update product	[4]Remove product	[5]Back
+Enter option: 2
+
+***THE LIST***
+
+PRODUCT ID: 100
+PRODUCT NAME: CHOCOLATE
+PRICE: 10.0
+STOCKS: 50
+
+PRODUCT ID: 101
+PRODUCT NAME: COKE
+PRICE: 20.0
+STOCKS: 50
+
+PRODUCT ID: 102
+PRODUCT NAME: BATTERY 9V
+PRICE: 25.0
+STOCKS: 50
+
+
+---------------Inventory Management---------------
+~For managing product data's
+
+[1]Add new product	[2]View products
+[3]Update product	[4]Remove product	[5]Back
+Enter option: 5
+
+--------------------------------------------
+[1]Account Management    [2]Sales Management  
+[3]Inventory Management  [4]Report  [5]Log out
+Enter option: 2
+
+---------------Sales Management---------------
+~For managing transaction data's
+
+[1]Add new transaction	[2]View transactions
+[3]Update transaction	[4]Remove transaction	[5]Back
+Enter option: 2
+
+***THE LIST***
+List is empty
+
+---------------Sales Management---------------
+~For managing transaction data's
+
+[1]Add new transaction	[2]View transactions
+[3]Update transaction	[4]Remove transaction	[5]Back
+Enter option: 1
+
+PRODUCTS:
+
+PRODUCT ID: 100
+PRODUCT NAME: CHOCOLATE
+PRICE: 10.0
+STOCKS: 50
+
+PRODUCT ID: 101
+PRODUCT NAME: COKE
+PRICE: 20.0
+STOCKS: 50
+
+PRODUCT ID: 102
+PRODUCT NAME: BATTERY 9V
+PRICE: 25.0
+STOCKS: 50
+
+
+Product ID to be sold: 1000
+The entered product ID was not on the list
+
+---------------Sales Management---------------
+~For managing transaction data's
+
+[1]Add new transaction	[2]View transactions
+[3]Update transaction	[4]Remove transaction	[5]Back
+Enter option: 1
+
+PRODUCTS:
+
+PRODUCT ID: 100
+PRODUCT NAME: CHOCOLATE
+PRICE: 10.0
+STOCKS: 50
+
+PRODUCT ID: 101
+PRODUCT NAME: COKE
+PRICE: 20.0
+STOCKS: 50
+
+PRODUCT ID: 102
+PRODUCT NAME: BATTERY 9V
+PRICE: 25.0
+STOCKS: 50
+
+
+Product ID to be sold: 100
+Quantity: 66
+Product: CHOCOLATE has 50 stocks left.
+
+---------------Sales Management---------------
+~For managing transaction data's
+
+[1]Add new transaction	[2]View transactions
+[3]Update transaction	[4]Remove transaction	[5]Back
+Enter option: 1
+
+PRODUCTS:
+
+PRODUCT ID: 100
+PRODUCT NAME: CHOCOLATE
+PRICE: 10.0
+STOCKS: 50
+
+PRODUCT ID: 101
+PRODUCT NAME: COKE
+PRICE: 20.0
+STOCKS: 50
+
+PRODUCT ID: 102
+PRODUCT NAME: BATTERY 9V
+PRICE: 25.0
+STOCKS: 50
+
+
+Product ID to be sold: 100
+Quantity: 3
+Total cost: 30.0
+Payment; [1]Cash, [2]card: 1
+Enter '0' to cancel
+Amount paid: NO
+Invalid input, please try again.
+change: -30.0
+
+---------------Sales Management---------------
+~For managing transaction data's
+
+[1]Add new transaction	[2]View transactions
+[3]Update transaction	[4]Remove transaction	[5]Back
+Enter option: 1
+
+PRODUCTS:
+
+PRODUCT ID: 100
+PRODUCT NAME: CHOCOLATE
+PRICE: 10.0
+STOCKS: 50
+
+PRODUCT ID: 101
+PRODUCT NAME: COKE
+PRICE: 20.0
+STOCKS: 50
+
+PRODUCT ID: 102
+PRODUCT NAME: BATTERY 9V
+PRICE: 25.0
+STOCKS: 50
+
+
+Product ID to be sold: 100
+Quantity: 3
+Total cost: 30.0
+Payment; [1]Cash, [2]card: 3
+Invalid input, please try again
+Payment; [1]Cash, [2]card: 2
+Enter '0' to cancel
+Amount paid: 25
+change: -5.0
+Insufficient Amount paid!
+
+Enter '0' to cancel
+Amount paid: 50
+change: 20.0
+New transaction was successfully added
+
+---------------Sales Management---------------
+~For managing transaction data's
+
+[1]Add new transaction	[2]View transactions
+[3]Update transaction	[4]Remove transaction	[5]Back
+Enter option: 1
+
+PRODUCTS:
+
+PRODUCT ID: 100
+PRODUCT NAME: CHOCOLATE
+PRICE: 10.0
+STOCKS: 47
+
+PRODUCT ID: 101
+PRODUCT NAME: COKE
+PRICE: 20.0
+STOCKS: 50
+
+PRODUCT ID: 102
+PRODUCT NAME: BATTERY 9V
+PRICE: 25.0
+STOCKS: 50
+
+
+Product ID to be sold: 100
+Quantity: 1
+Total cost: 10.0
+Payment; [1]Cash, [2]card: 1
+Enter '0' to cancel
+Amount paid: 10
+change: 0.0
+New transaction was successfully added
+
+---------------Sales Management---------------
+~For managing transaction data's
+
+[1]Add new transaction	[2]View transactions
+[3]Update transaction	[4]Remove transaction	[5]Back
+Enter option: 1
+
+PRODUCTS:
+
+PRODUCT ID: 100
+PRODUCT NAME: CHOCOLATE
+PRICE: 10.0
+STOCKS: 46
+
+PRODUCT ID: 101
+PRODUCT NAME: COKE
+PRICE: 20.0
+STOCKS: 50
+
+PRODUCT ID: 102
+PRODUCT NAME: BATTERY 9V
+PRICE: 25.0
+STOCKS: 50
+
+
+Product ID to be sold: 101
+Quantity: 2
+Total cost: 40.0
+Payment; [1]Cash, [2]card: 1
+Enter '0' to cancel
+Amount paid: 50
+change: 10.0
+New transaction was successfully added
+
+---------------Sales Management---------------
+~For managing transaction data's
+
+[1]Add new transaction	[2]View transactions
+[3]Update transaction	[4]Remove transaction	[5]Back
+Enter option: 2
+
+***THE LIST***
+
+TRANSACTION ID: 100
+TRANSACTION DATE: Wed Dec 20 12:09:36 SGT 2023
+TRANSACTION TOTAL: 30.0
+PAYMENT METHOD: Card
+
+TRANSACTION ID: 101
+TRANSACTION DATE: Wed Dec 20 12:10:17 SGT 2023
+TRANSACTION TOTAL: 10.0
+PAYMENT METHOD: Cash
+
+TRANSACTION ID: 102
+TRANSACTION DATE: Wed Dec 20 12:11:09 SGT 2023
+TRANSACTION TOTAL: 40.0
+PAYMENT METHOD: Cash
+
+
+---------------Sales Management---------------
+~For managing transaction data's
+
+[1]Add new transaction	[2]View transactions
+[3]Update transaction	[4]Remove transaction	[5]Back
+Enter option: 3
+Update on the list is not available
+
+---------------Sales Management---------------
+~For managing transaction data's
+
+[1]Add new transaction	[2]View transactions
+[3]Update transaction	[4]Remove transaction	[5]Back
+Enter option: 1
+
+PRODUCTS:
+
+PRODUCT ID: 100
+PRODUCT NAME: CHOCOLATE
+PRICE: 10.0
+STOCKS: 46
+
+PRODUCT ID: 101
+PRODUCT NAME: COKE
+PRICE: 20.0
+STOCKS: 48
+
+PRODUCT ID: 102
+PRODUCT NAME: BATTERY 9V
+PRICE: 25.0
+STOCKS: 50
+
+
+Product ID to be sold: 102
+Quantity: 1
+Total cost: 25.0
+Payment; [1]Cash, [2]card: 1
+Enter '0' to cancel
+Amount paid: 50
+change: 25.0
+New transaction was successfully added
+
+---------------Sales Management---------------
+~For managing transaction data's
+
+[1]Add new transaction	[2]View transactions
+[3]Update transaction	[4]Remove transaction	[5]Back
+Enter option: 4
+Transaction ID: 1
+The entered transaction ID was not on the list
+
+---------------Sales Management---------------
+~For managing transaction data's
+
+[1]Add new transaction	[2]View transactions
+[3]Update transaction	[4]Remove transaction	[5]Back
+Enter option: 2
+
+***THE LIST***
+
+TRANSACTION ID: 100
+TRANSACTION DATE: Wed Dec 20 12:09:36 SGT 2023
+TRANSACTION TOTAL: 30.0
+PAYMENT METHOD: Card
+
+TRANSACTION ID: 101
+TRANSACTION DATE: Wed Dec 20 12:10:17 SGT 2023
+TRANSACTION TOTAL: 10.0
+PAYMENT METHOD: Cash
+
+TRANSACTION ID: 102
+TRANSACTION DATE: Wed Dec 20 12:11:09 SGT 2023
+TRANSACTION TOTAL: 40.0
+PAYMENT METHOD: Cash
+
+TRANSACTION ID: 103
+TRANSACTION DATE: Wed Dec 20 12:13:49 SGT 2023
+TRANSACTION TOTAL: 25.0
+PAYMENT METHOD: Cash
+
+
+---------------Sales Management---------------
+~For managing transaction data's
+
+[1]Add new transaction	[2]View transactions
+[3]Update transaction	[4]Remove transaction	[5]Back
+Enter option: 4
+Transaction ID: 103
+The transaction was successfully removed
+
+---------------Sales Management---------------
+~For managing transaction data's
+
+[1]Add new transaction	[2]View transactions
+[3]Update transaction	[4]Remove transaction	[5]Back
+Enter option: 2
+
+***THE LIST***
+
+TRANSACTION ID: 100
+TRANSACTION DATE: Wed Dec 20 12:09:36 SGT 2023
+TRANSACTION TOTAL: 30.0
+PAYMENT METHOD: Card
+
+TRANSACTION ID: 101
+TRANSACTION DATE: Wed Dec 20 12:10:17 SGT 2023
+TRANSACTION TOTAL: 10.0
+PAYMENT METHOD: Cash
+
+TRANSACTION ID: 102
+TRANSACTION DATE: Wed Dec 20 12:11:09 SGT 2023
+TRANSACTION TOTAL: 40.0
+PAYMENT METHOD: Cash
+
+
+---------------Sales Management---------------
+~For managing transaction data's
+
+[1]Add new transaction	[2]View transactions
+[3]Update transaction	[4]Remove transaction	[5]Back
+Enter option: 5
+
+--------------------------------------------
+[1]Account Management    [2]Sales Management  
+[3]Inventory Management  [4]Report  [5]Log out
+Enter option: 4
+
+Best Selling Product:
+
+PRODUCT ID: 100
+PRODUCT NAME: CHOCOLATE
+PRICE: 10.0
+STOCKS: 46
+
+Worst Selling Product:
+
+PRODUCT ID: 102
+PRODUCT NAME: BATTERY 9V
+PRICE: 25.0
+STOCKS: 49
+
+Sold Products:
+
+PRODUCT ID: 100
+PRODUCT NAME: CHOCOLATE
+PRICE: 10.0
+STOCKS: 46
+
+PRODUCT ID: 100
+PRODUCT NAME: CHOCOLATE
+PRICE: 10.0
+STOCKS: 46
+
+PRODUCT ID: 101
+PRODUCT NAME: COKE
+PRICE: 20.0
+STOCKS: 48
+
+--------------------------------------------
+[1]Account Management    [2]Sales Management  
+[3]Inventory Management  [4]Report  [5]Log out
+Enter option: 5
+
+********************************************
+v1.2     ______    _______    ________
+	/ __  /   / ___  /   / ______/
+       / /_/ /   / /  / /   / /_____  
+      / ____/   / /  / /   /_____  /  
+     / /       / /  / /         / /   
+    / /       / /__/ /   ______/ /    
+   /_/       /______/   /_______/     
+
+Welcome to Point of Sale Manangement System 
+********************************************
+
+[1]Login, [2]Register, [3]Exit
+Enter option: 1
+Enter username: JAMES
+Enter password: 4565
+
+Incorrect details, please try again
+
+[1]Login, [2]Register, [3]Exit
+Enter option: 1
+Enter username: JAMES
+Enter password: 456
+
+--------------------------------------------
+[1]Add Transaction, [2]View products, [3]Log out
+Enter option: 2
+
+PRODUCT ID: 100
+PRODUCT NAME: CHOCOLATE
+PRICE: 10.0
+STOCKS: 46
+
+PRODUCT ID: 101
+PRODUCT NAME: COKE
+PRICE: 20.0
+STOCKS: 48
+
+PRODUCT ID: 102
+PRODUCT NAME: BATTERY 9V
+PRICE: 25.0
+STOCKS: 49
+
+
+--------------------------------------------
+[1]Add Transaction, [2]View products, [3]Log out
+Enter option: 1
+
+PRODUCTS:
+
+PRODUCT ID: 100
+PRODUCT NAME: CHOCOLATE
+PRICE: 10.0
+STOCKS: 46
+
+PRODUCT ID: 101
+PRODUCT NAME: COKE
+PRICE: 20.0
+STOCKS: 48
+
+PRODUCT ID: 102
+PRODUCT NAME: BATTERY 9V
+PRICE: 25.0
+STOCKS: 49
+
+
+Product ID to be sold: 102
+Quantity: 10
+Total cost: 250.0
+Payment; [1]Cash, [2]card: 1
+Enter '0' to cancel
+Amount paid: 500
+change: 250.0
+New transaction was successfully added
+
+--------------------------------------------
+[1]Add Transaction, [2]View products, [3]Log out
+Enter option: 3
+
+********************************************
+v1.2     ______    _______    ________
+	/ __  /   / ___  /   / ______/
+       / /_/ /   / /  / /   / /_____  
+      / ____/   / /  / /   /_____  /  
+     / /       / /  / /         / /   
+    / /       / /__/ /   ______/ /    
+   /_/       /______/   /_______/     
+
+Welcome to Point of Sale Manangement System 
+********************************************
+
+[1]Login, [2]Register, [3]Exit
+Enter option: 1
+Enter username: Elliot
+Enter password: Elliot
+
+--------------------------------------------
+[1]Account Management    [2]Sales Management  
+[3]Inventory Management  [4]Report  [5]Log out
+Enter option: 4
+
+Best Selling Product:
+
+PRODUCT ID: 102
+PRODUCT NAME: BATTERY 9V
+PRICE: 25.0
+STOCKS: 39
+
+Worst Selling Product:
+
+PRODUCT ID: 101
+PRODUCT NAME: COKE
+PRICE: 20.0
+STOCKS: 48
+
+Sold Products:
+
+PRODUCT ID: 100
+PRODUCT NAME: CHOCOLATE
+PRICE: 10.0
+STOCKS: 46
+
+PRODUCT ID: 100
+PRODUCT NAME: CHOCOLATE
+PRICE: 10.0
+STOCKS: 46
+
+PRODUCT ID: 101
+PRODUCT NAME: COKE
+PRICE: 20.0
+STOCKS: 48
+
+PRODUCT ID: 102
+PRODUCT NAME: BATTERY 9V
+PRICE: 25.0
+STOCKS: 39
+
+--------------------------------------------
+[1]Account Management    [2]Sales Management  
+[3]Inventory Management  [4]Report  [5]Log out
+Enter option: 5
+
+********************************************
+v1.2     ______    _______    ________
+	/ __  /   / ___  /   / ______/
+       / /_/ /   / /  / /   / /_____  
+      / ____/   / /  / /   /_____  /  
+     / /       / /  / /         / /   
+    / /       / /__/ /   ______/ /    
+   /_/       /______/   /_______/     
+
+Welcome to Point of Sale Manangement System 
+********************************************
+
+[1]Login, [2]Register, [3]Exit
+Enter option: 3
+
+The program has been terminated!
