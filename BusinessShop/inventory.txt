@@ -1,0 +1,22 @@
+itlog 15
+shanghai 15
+hotdog 15
+spam 15
+ham 15
+burger 15
+embutido 15
+longganisa 15
+tapa 20
+ 
+pork_siomai 15
+beef_siomai 20
+chicken_siomai 14
+ 
+cheese 37
+fries 12
+ 
+royal 15
+coke 25
+sprite 14
+water 15
+delmonte 15

@@ -1,0 +1,33 @@
+c1	sisilog		65
+c2	shanghai silog	45
+c3	hotsilog	45 
+c4	spamsilog	65
+c5	hamsilog	55
+c6	burgersilog	45
+c7	embusilog	45
+c8	longsilog	45
+c9	tapsilog	65
+
+s1 	steam siomai	45
+s2	fried siomai	45
+
+b1	regular		40
+b2	burger with cheese	50
+b3	burger with cheese&egg	55
+b4	ham & cheese with egg	55
+b5	double patty with cheese	65
+
+h1	hotdog sandwich	20
+h2	hotdog sandwich with cheese	30
+
+f1	fries 	25
+
+
+Siomai pork beef,chicken 32
+Water 15
+Delmonte 35
+Mismo royal, coke,sprite 20
+
+
+
+

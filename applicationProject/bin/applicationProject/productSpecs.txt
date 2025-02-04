@@ -1,0 +1,223 @@
+Apple Macbook Air M1 2020
+DISPLAY
+Screen13.3"
+Screen Resolution2560 x 1600pixels
+Screen TechnologyRetina
+Refresh Rate60Hz
+
+PLATFORM
+ProcessorApple M1
+Processor ManufacturerApple
+OSmacOS
+Processor CoreOcta Core
+Processor Speed3.2GHz
+
+STORAGE
+Storage256 - 1000GB
+Storage TypeSSD
+
+MEMORY
+RAM8 - 16GB
+RAM Speed4266MHz
+RAM TypeUnified PDDR4X
+
+GRAPHICS
+Graphic CardApple M1 GPU
+
+DESIGN
+Weight1.3kg
+Body MaterialAluminium
+
+BATTERY
+Battery Life13h
+
+CAMERA
+Webcam ResolutionHD
+
+CONNECTOR PORTS
+USB Type1 X USB Type-C
+ThunderboltYes
+VGANo
+Total USB4
+DVINo
+Card ReaderNo
+DisplayPortNo
+HDMINo
+Headphone JackYes
+
+COLOUR
+ColourGold, Grey & more
+OPTICAL DRIVE
+Optical Disc DriveNone
+
+CONNECTION
+Wi-Fi Standard802.11ax
+
+FEATURES
+Touch ScreenNo
+Fingerprint ReaderYes
+Backlit KeyboardYes
+
+*****
+
+Huawei Matebook D 15
+DISPLAY
+Screen15.6"
+Screen Resolution1920 x 1080pixels
+Screen TechnologyIPS
+Refresh Rate60Hz
+
+PLATFORM
+ProcessorIntel Core i3-10110U, Intel Core i3-1115G4 & more
+Processor ManufacturerIntel
+OSWindows 10 Home
+Processor CoreQuad Core
+Processor Speed5GHz
+
+STORAGE
+Storage256 - 512GB
+Storage TypeSSD
+
+MEMORY
+RAM8GB
+RAM Speed2400MHz
+RAM TypeDDR4
+
+GRAPHICS
+Graphic CardNVIDIA GeForce MX250 / Intel UHD Graphics
+
+DESIGN
+Weight1.62kg
+Body MaterialAluminium
+
+BATTERY
+Battery Life5h
+
+CAMERA
+Webcam ResolutionHD
+
+CONNECTOR PORTS
+USB Type1 X USB 3.0, 1 X USB 3.2
+ThunderboltNo
+VGANo
+Total USB3
+DVINo
+Card ReaderNo
+DisplayPortNo
+HDMIYes
+Headphone JackYes
+
+PRICE
+Retail PriceDiscontinued
+
+OPTICAL DRIVE
+Optical Disc DriveNone
+
+CONNECTION
+Wi-Fi Standard802.11a/b/g/n/ac
+
+FEATURES
+Touch ScreenNo
+Fingerprint ReaderYes
+Backlit KeyboardYes
+
+COLOUR
+ColourGrey, Silver
+
+*****
+
+Huawei MateBook D14 2021
+Screen14"
+Processor10th Generation Intel Core i3-10110U, Intel Core i5-10210U
+Storage256 - 512GB
+RAM8GB
+
+*****
+
+ASUS Vivobook 16X M1603a
+Screen16"
+ProcessorAMD Ryzen™ 5 5600H
+Storage512GB
+RAM8GB
+
+*****
+
+DELL Latitude 7000 E7470
+Screen14"
+ProcessorIntel Core i5-6300U, Intel core i7 6600u
+Storage256 - 512GB
+RAM8 - 16GB
+
+*****
+
+Acer Nitro 5 15-inch AN515-58-50YE
+Screen15.6"
+ProcessorCorei5-12500H
+Storage512GB
+RAM8GB
+
+*****
+
+Apple MacBook Pro 13 Inch 2017
+Screen13.3"
+ProcessorIntel Core i5
+Storage256 - 512GB
+RAM8GB
+
+*****
+
+DELL Latitude E6430
+Screen14"
+ProcessorIntel Core i7-3630M
+Storage240GB
+RAM8GB
+
+*****
+
+Lenovo Legion 5i Pro
+Screen16"
+Weight2.45kg
+Battery Life8h
+Graphic CardNVIDIA® GeForce RTX™
+
+*****
+
+MSI Modern 14
+Screen14"
+ProcessorAMD Ryzen 5-5500U, AMD Ryzen 7-5700U
+Storage512GB
+RAM8 - 32GB
+
+*****
+
+Infinix INBook X1 Pro
+Screen14"
+Graphic CardIntel Iris Plus Graphics G7
+Weight1.48kg
+Battery Life13h
+
+*****
+
+Lenovo IdeaPad 3 15ITL05
+Screen15.6"
+RAM12GB
+Storage TypeSSD
+Backlit KeyboardNo
+
+*****
+
+Acer Aspire 5 A514-54
+Screen14"
+ProcessorIntel Core i3
+Storage256GB
+RAM8GB
+
+*****
+
+Lenovo ThinkPad X240
+Screen12.5"
+Graphic CardIntel HD Graphics 4400
+Weight1.4kg
+Battery Life8h
+
+*****
