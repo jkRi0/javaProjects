@@ -1,0 +1,70 @@
+hey guys, I am justine ken D. rioveros
+and as presented at the screen,
+me and my other groupmate named Juhary 
+was assigned to create the uml class diagram 
+for our OOP finals research project, 
+and this diagram representing the system 
+of a point of sale for a grocery store, 
+
+so lets start at the very top, 
+we have here the abstract class named management system 
+that represent as the super class of the three subclasses. 
+and inside the management system, we have only methods, 
+and the first one was validate input number which only used 
+for user input validation, and these four abstract methods 
+are used to force each management to have there own functionalities 
+which are Create, Read, Update, and Delete.
+
+and now we look at the three subclasses
+the three are also the whole class with there corresponding part
+and as you notice, we used list of object for each management because 
+each one of them had its own part.
+
+for the sales management, we use composition relationship with 
+transaction class
+and as well as the relationship of account management and account class.
+
+and for our inventory management, we use aggregation relationship
+with product class, because the product class must have its own
+life cycle, and list of product was also implemented at the main class
+
+lastly, we have the report class, that has a unidirectional association
+with sales management and inventory management class, becuase
+the report class gives the evaluated sold products, that associated
+with the transactions and products
+
+and thats it for our UML class diagram, thank you
+
+
+
++*++++++++++++++++++++++CODE  MAIN class
+
+
+Now, this is the main class for our point of sale system of a grocery store
+that represent as an entry point for the console application.
+
+starting with the instantiation of objects within the classfields of Main class
+and we also have the array that will be use for upcasting later on
+
+and we proceed at the main method, which where the polymorphism was implemented
+by upcasting every subclasses with there superclass, and after that
+setting other instance member of specific classes was done, to get aware 
+of its another class.
+
+By calling the Logging in method, the system proceeds to print the
+welcome message as the starting point of the console application.
+
+within the algorithm, the user must login or register an account first,
+and then it checks if someone was logged in an account, 
+then it proceed to search and validate the account if its 
+an admin or local account, however, those user account had their own
+corresponding menu's
+
+the local account was limited to use the functionalities of the system,
+because only admin account has the ability to manage data's within the system
+and those limited functionalities will be displayed within the
+Display local account menu method
+
+
+
+
