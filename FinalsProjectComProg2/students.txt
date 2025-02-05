@@ -1,0 +1,9 @@
+Kenneth Victoria,23,Male,Cabuyao Laguna,1IT-E,kennethvictoria@gmai.com,1st Year,09166446482,CCS,Michel Victoria
+Sam,21,Male,Pulo,1IT-B,SamReginal@gmail.com,2nd Year,0915647832,CCS,Michelle
+Josh,21,Male,Location,1IT-C,Joshua@gmail.com,3rd Year,091645342,CCE,Fatima
+Rasco,20,Male,Poblacion Uno,1IT-B,rascoco@gmail.com,2nd Year,098823657,CCE,Esmeralda
+Joshua Sunico,21,Male,Location,1IT-A,DrkSn@gmail.com,3rd Year,09226584912,CSS,Beatrix
+AJ,21,Male,Pulo,1IT-C,AJhoniely@gmail.com,3rd Year,0913554473,CHAS,Tricia
+Criselda,24,Female,Pulo,1IT-B,Criselda@gmail.com,4th Year,0923453367,CBAA,Cristine
+Danica,20,Female,Baclaran,1IT-C,DanicaAlonzo@gmail.com,4th Year,09872353113,CHAS,Daniela Alonzo
+Name,Age,Male,Marinig,1IT-A,Email,1st Year,Phone Number,CSS,Guardian Name

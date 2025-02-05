@@ -1,0 +1,42 @@
+Full Name: Kenneth M. Victoria
+GCASH Number: 09166446482
+Payment Amount: 20,000
+Payment Date: 05/23/2023
+Course: BSCS
+Tuition Fee: 20,000
+
+Full Name: Sam Reginald Besa
+GCASH Number: 0945765421
+Payment Amount: 15,000
+Payment Date: 05/23/2023
+Course: BSIT
+Tuition Fee: 15,000
+
+Full Name: Rasco O. Salandanan
+GCASH Number: 0987664598
+Payment Amount: 25,000
+Payment Date: 05/23/2023
+Course: BSIE
+Tuition Fee: 25,000
+
+Full Name: Nemeul Buenaflor
+GCASH Number: 0965542318
+Payment Amount: 15,000
+Payment Date: 05/23/2023
+Course: BSIT
+Tuition Fee: 15,000
+
+Full Name: Joshua Sunico
+GCASH Number: 0988453262
+Payment Amount: 15,000
+Payment Date: 05/23/2023
+Course: BSIT
+Tuition Fee: 15,000
+
+Full Name: Warren Lontoc
+GCASH Number: 0932453321
+Payment Amount: 25,000
+Payment Date: 05/23/2023
+Course: BSIE
+Tuition Fee: 25,000
+
